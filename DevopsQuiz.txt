@@ -1,0 +1,9 @@
+Devops 
+
+Developing the code.
+Testing it.
+Deploying the test infrastructure.
+Running end-to-end tests.
+Deploying the code.
+Collecting metrics from production.
+End-to-end orchestration of the DevOps pipeline.
